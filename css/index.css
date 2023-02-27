@@ -3397,6 +3397,9 @@ h1.page-title + .tag-cloud-list {
     height: 360px;
   }
 }
+#page-header.post-bg:before {
+  background-color: rgba(0,0,0,0.5);
+}
 #page-header #post-info {
   position: absolute;
   bottom: 100px;
