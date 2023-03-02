@@ -94,7 +94,7 @@ favicon: https://oss.mingever.com/website/common/favicon.ico
 
 # Avatar (頭像)
 avatar:
-  img: https://oss.mingever.com/website/common/circle.jpg
+  img: https://oss.mingever.com/website/common/avatar.jpg
   effect: false
 
 # Disable all banner image
